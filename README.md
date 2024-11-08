@@ -36,6 +36,7 @@ To Do
 Contributing
 
 Feel free to fork the project, open issues, or suggest improvements! Since this is a beginner project, I'm open to feedback and learning from others.
+
 Acknowledgements
 
 Shoutout to all the online resources and tutorials that helped me get started with Go, audio file handling, and building this project.
